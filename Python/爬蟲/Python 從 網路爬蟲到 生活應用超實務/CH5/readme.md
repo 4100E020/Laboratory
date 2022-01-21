@@ -3,7 +3,7 @@
 ```python
 pip install beautifulsoup4
 ```
-2. 
+2. requests
 ```python
 pip install requests
 ```
