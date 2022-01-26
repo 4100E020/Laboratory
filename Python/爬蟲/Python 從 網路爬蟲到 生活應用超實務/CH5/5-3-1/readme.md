@@ -2,6 +2,12 @@
 ```
 pip install selenium
 ```
+安裝 Chormediver
+```
+https://chromedriver.chromium.org/home
+選擇相應版本並安裝
+```
+
 
 ```Python
 from selenium import webdriver
