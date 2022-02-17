@@ -2,7 +2,7 @@
 pip install fake-useragent
 ```
 
-```
+```Python
 from fake_useragent import UserAgent
 
 ua = UserAgent()
@@ -11,5 +11,4 @@ print(ua.google)
 print(ua.firefox)
 print(ua.safari)
 print(ua.random)
-
 ```
